@@ -118,7 +118,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Eponesh_GameScore.Exps.LeaderboardCurPlayerName,
 		C3.Plugins.Eponesh_GameScore.Exps.LeaderboardCurPlayerField,
 		C3.Plugins.Sprite.Cnds.PickChildren,
-		C3.Plugins.Multiplayer.Cnds.IsSupported,
 		C3.JavaScriptInEvents.Referral_Event2_Act1,
 		C3.Plugins.GamePush_Channels.Acts.FetchFeedMessages,
 		C3.Plugins.GamePush_Channels.Cnds.OnFeedMessagesFetch,
